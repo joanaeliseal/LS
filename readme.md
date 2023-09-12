@@ -1,6 +1,4 @@
-# estudos_javascript
-
-![banner_ilustrativo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png)
+# Estudos JavaScript e React
 
 ### 📑 **O que temos aqui?**
 > Nesse repositório, temos três pastas:
